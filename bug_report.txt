@@ -1,1 +1,9 @@
-
+Bug report ID: 1
+Title: When the cart contains one item, it is not possible to add a second item via the add to cart button on a product page
+Steps to reproduce:
+Step 1: add one item to cart
+Step 2: go to product abc via the search bar
+Step 3: add new item to cart via 'add to cart' button
+Step 4: go to cart
+Expected result: The cart should contain 2 items
+Actual result: The cart contains only 1 item
