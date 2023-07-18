@@ -1,0 +1,4 @@
+Tools - Git Bash, JavaScript, Postman, VS Code, DevTools, DBeaver, Charles Proxy, Fiddler, Jmeter
+Programming basics - JavaScript, Python, SQL
+Testing documentation - Test cases, Check lists, Bug reports
+Testing skills - Manual functional testing, Mobile testing, API testing, Stress testing
